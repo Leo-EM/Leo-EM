@@ -12,4 +12,4 @@ Actualmente soy estudiante universitario de la carrera de Tecnicatura Universita
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
 ## Contacto
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:leo24corales@gmail.com)
+[![Email](https://img.shields.io/badge/leo24corales@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:leo24corales@gmail.com)
