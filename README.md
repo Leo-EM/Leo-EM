@@ -10,7 +10,7 @@ Actualmente soy estudiante universitario de la carrera de "*Tecnicatura Universi
 [![SASS](https://img.shields.io/badge/SASS-F28E8E?style=for-the-badge&logo=SASS&logoColor=white&labelColor=101010)]()
 [![Gulp.js](https://img.shields.io/badge/Gulp.js-FE5117?style=for-the-badge&logo=GULP&logoColor=white&labelColor=101010)]()
 </br>
-[![PHP](https://img.shields.io/badge/PHP-1283e0?&style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![SQL](https://img.shields.io/badge/SQL-1283e0?&style=for-the-badge&logo=slq&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
