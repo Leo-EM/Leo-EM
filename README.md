@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Leonardo Corales 👋
-### Freelance Front-End 💻
+### Freelance Front-End Developer 💻
 
 Actualmente soy estudiante universitario de la carrera de "*Tecnicatura Universitaria en Informática*" en la **U**niversidad **N**acional **G**eneral **S**armiento (**UNGS**), cursando mi segundo año 📚. Durante mi formación, he adquirido conocimientos y habilidades en diversas áreas de la informática, pero especialmente me he enfocado en el desarrollo *Front-End*. Poseo experiencia en el uso de tecnologías como HTML, CSS, JavaScript, SASS y Gulp, y siempre estoy en constante aprendizaje para mantenerme actualizado en las últimas tendencias y herramientas. Me apasiona el mundo de la programación y estoy entusiasmado por seguir creciendo como profesional en el campo de la informática.
 
