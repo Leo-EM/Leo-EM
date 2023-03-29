@@ -1,7 +1,7 @@
 ### Hola, mi nombre es Leonardo Corales 👋
-### Freelance Front-End Developer 💻
+### Desarrollador Web Front-End autodidacta y en formación 💻
 
-Actualmente soy estudiante universitario de la carrera de "*Tecnicatura Universitaria en Informática*" en la **U**niversidad **N**acional **G**eneral **S**armiento (**UNGS**), cursando mi segundo año 📚. Durante mi formación, he adquirido conocimientos y habilidades en diversas áreas de la informática, pero especialmente me he enfocado en el desarrollo *Front-End*. Poseo experiencia en el uso de tecnologías como HTML, CSS, JavaScript, SASS y Gulp, y siempre estoy en constante aprendizaje para mantenerme actualizado en las últimas tendencias y herramientas. Me apasiona el mundo de la programación y estoy entusiasmado por seguir creciendo como profesional en el campo de la informática.
+Actualmente soy estudiante universitario de la carrera de "*Tecnicatura Universitaria en Informática*" en la **U**niversidad **N**acional **G**eneral **S**armiento (**UNGS**), cursando mi segundo año 📚. Durante mi formación, he adquirido conocimientos y habilidades en diversas áreas de la informática, pero especialmente me he enfocado en el desarrollo *Front-End* de forma autodidacta con ayuda del curso asincronico "**Desarrollo Web Completo**" de la plataforma **U**demy. Poseo experiencia en el uso de tecnologías como HTML, CSS, JavaScript, SASS, Python y PHP, y siempre estoy en constante aprendizaje para mantenerme actualizado en las últimas tendencias y herramientas. Me apasiona el mundo de la programación y estoy entusiasmado por seguir creciendo como profesional en el campo de la informática.
 
 ## Tecnologías:
 [![HTML](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
@@ -9,7 +9,6 @@ Actualmente soy estudiante universitario de la carrera de "*Tecnicatura Universi
 [![bootstrap](https://img.shields.io/badge/bootstrap-9217FE?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/SASS-F28E8E?style=for-the-badge&logo=SASS&logoColor=white&labelColor=101010)]()
-[![Gulp.js](https://img.shields.io/badge/Gulp.js-FE5117?style=for-the-badge&logo=GULP&logoColor=white&labelColor=101010)]()
 </br>
 [![PHP](https://img.shields.io/badge/php-1283e0?&style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
