@@ -1,7 +1,8 @@
 ### Hola, mi nombre es Leonardo Corales 👋
 ### Desarrollador Web Front-End autodidacta y en formación 💻
 
-Actualmente soy estudiante universitario de la carrera de "*Tecnicatura Universitaria en Informática*" en la **U**niversidad **N**acional **G**eneral **S**armiento (**UNGS**), cursando mi segundo año 📚. Durante mi formación, he adquirido conocimientos y habilidades en diversas áreas de la informática, pero especialmente me he enfocado en el desarrollo *Front-End* de forma autodidacta con ayuda del curso asincronico "**Desarrollo Web Completo**" de la plataforma **U**demy. Poseo experiencia en el uso de tecnologías como HTML, CSS, JavaScript, SASS, Python y PHP, y siempre estoy en constante aprendizaje para mantenerme actualizado en las últimas tendencias y herramientas. Me apasiona el mundo de la programación y estoy entusiasmado por seguir creciendo como profesional en el campo de la informática.
+Actualmente soy estudiante universitario de la carrera de "*Tecnicatura Universitaria en Informática*" en la **U**niversidad **N**acional **G**eneral **S**armiento (**UNGS**), cursando mi segundo año 📚. Durante mi formación, he adquirido conocimientos y habilidades en diversas áreas de la informática, pero especialmente me he enfocado en el desarrollo *Front-End* de forma autodidacta con ayuda del curso asincronico "**Desarrollo Web Completo**" de la plataforma **Udemy**. 
+Poseo experiencia en el uso de tecnologías como HTML, CSS, JavaScript, SASS, Python y PHP, y siempre estoy en constante aprendizaje para mantenerme actualizado en las últimas tendencias y herramientas. Me apasiona el mundo de la programación y estoy entusiasmado por seguir creciendo como profesional en el campo de la informática.
 
 ## Tecnologías:
 [![HTML](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
