@@ -11,9 +11,9 @@ Poseo experiencia en el uso de tecnologías como HTML, CSS, JavaScript, SASS, Py
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/SASS-F28E8E?style=for-the-badge&logo=SASS&logoColor=white&labelColor=101010)]()
 </br>
-[![PHP](https://img.shields.io/badge/php-1283e0?&style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-1283e0?&style=for-the-badge&logo=slq&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/php-1283e0?&style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JAVA](https://img.shields.io/badge/JAVA-1283e0?&style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
