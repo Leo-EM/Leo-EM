@@ -1,8 +1,9 @@
-### Hola, mi nombre es Leonardo Corales 👋
-### Desarrollador Web Front-End autodidacta y en formación 💻
+# Hola, mi nombre es Leonardo Corales 👋
+## Desarrollador Web Front-End autodidacta y en formación 💻
 
 Actualmente soy estudiante universitario de la carrera de "*Tecnicatura Universitaria en Informática*" en la **U**niversidad **N**acional **G**eneral **S**armiento (**UNGS**), cursando mi segundo año 📚. Durante mi formación, he adquirido conocimientos y habilidades en diversas áreas de la informática, pero especialmente me he enfocado en el desarrollo *Front-End* de forma autodidacta con ayuda del curso asincrónico "**Desarrollo Web Completo**" de la plataforma **Udemy**. </br>
-Poseo experiencia en el uso de tecnologías como HTML, CSS, JavaScript, SASS y Python, entre otras. Siempre estoy en constante aprendizaje para mantenerme actualizado en las últimas tendencias y herramientas. Me apasiona el mundo de la programación y estoy entusiasmado por seguir creciendo como profesional en el campo de la informática.
+Siempre estoy en constante aprendizaje para mantenerme actualizado en las últimas tendencias y herramientas. Me apasiona el mundo de la programación y estoy entusiasmado por seguir creciendo como profesional en el campo de la informática. </br>
+El pasado 8 de Mayo de este año (2023) logre entrar al **BootCamp de [HENRY](soyhenry.com)** en la especialidad de **Desarrollador Full-Stack**
 
 ## Tecnologías:
 [![HTML](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
@@ -10,12 +11,16 @@ Poseo experiencia en el uso de tecnologías como HTML, CSS, JavaScript, SASS y P
 [![bootstrap](https://img.shields.io/badge/bootstrap-9217FE?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/SASS-F28E8E?style=for-the-badge&logo=SASS&logoColor=white&labelColor=101010)]()
+[![LESS](https://img.shields.io/badge/LESS-1a3154?style=for-the-badge&logo=LESS&logoColor=white&labelColor=101010)]()
 </br>
-[![SQL](https://img.shields.io/badge/SQL-1283e0?&style=for-the-badge&logo=slq&logoColor=white&labelColor=101010)]()
+[![NODE](https://img.shields.io/badge/NODE.JS-86be00?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
+[![REACT](https://img.shields.io/badge/REACT-1399c4?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![VITE](https://img.shields.io/badge/VITE-ffd52e?style=for-the-badge&logo=vite&logoColor=white&labelColor=101010)]()
+[![REDUX](https://img.shields.io/badge/REDUX-7248b6?style=for-the-badge&logo=redux&logoColor=white&labelColor=101010)]()
+</br>
 [![PHP](https://img.shields.io/badge/php-1283e0?&style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-</br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![JAVA](https://img.shields.io/badge/JAVA-1283e0?&style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JAVA](https://img.shields.io/badge/JAVA-1283e0?&style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=101010)]()
 [![GIT](https://img.shields.io/badge/GIT-red?&style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 ## Contacto
