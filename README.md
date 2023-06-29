@@ -9,10 +9,10 @@ El pasado 8 de Mayo de este año (2023) logre entrar al **BootCamp de [HENRY](so
 [![HTML](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![bootstrap](https://img.shields.io/badge/bootstrap-9217FE?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/SASS-F28E8E?style=for-the-badge&logo=SASS&logoColor=white&labelColor=101010)]()
 [![LESS](https://img.shields.io/badge/LESS-1a3154?style=for-the-badge&logo=LESS&logoColor=white&labelColor=101010)]()
 </br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![NODE](https://img.shields.io/badge/NODE.JS-86be00?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
 [![REACT](https://img.shields.io/badge/REACT-1399c4?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![VITE](https://img.shields.io/badge/VITE-ffd52e?style=for-the-badge&logo=vite&logoColor=white&labelColor=101010)]()
