@@ -26,4 +26,4 @@ El pasado 8 de Mayo de este año (2023) logre entrar al **BootCamp de [HENRY](so
 ## Contacto
 [![Email](https://img.shields.io/badge/leo24corales@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:leo24corales@gmail.com)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Corales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leonardo-ezequiel-corales-0557a4259/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Corales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leonardo-corales/)
