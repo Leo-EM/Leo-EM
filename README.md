@@ -31,9 +31,10 @@ El pasado 8 de Mayo de este año (2023) logre entrar al **BootCamp de [HENRY](so
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Corales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leonardo-corales/)
 ---
-[![](https://visitcount.itsvg.in/api?id=Eze-CM&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Eze-CM&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
+<!--
 ## 💰 Support Me
 <div align="center">  
   <p><a href="https://bmc.link/leo24coral5"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="(https://bmc.link/leo24coral5)" /></a></p></div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ -->
