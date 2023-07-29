@@ -23,7 +23,7 @@ El pasado 8 de Mayo de este año (2023) logre entrar al **BootCamp de [HENRY](so
 [![GIT](https://img.shields.io/badge/GIT-red?&style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Eze-CM&theme=dracula&hide_border=true)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Eze-CM&theme=dracula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eze-CM&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 📧 Contact Me:
