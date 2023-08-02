@@ -1,5 +1,5 @@
-# 💫 About Me:
-### Desarrollador Web Front-End autodidacta y en formación 💻
+# Hi , I'm Leonardo Corales  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+### About me 💻
 
 Actualmente soy estudiante universitario de la carrera de "*Tecnicatura Universitaria en Informática*" en la **U**niversidad **N**acional **G**eneral **S**armiento (**UNGS**), cursando mi segundo año 📚. Durante mi formación, he adquirido conocimientos y habilidades en diversas áreas de la informática, pero especialmente me he enfocado en el desarrollo *Front-End* de forma autodidacta con ayuda del curso asincrónico "**Desarrollo Web Completo**" de la plataforma **Udemy**. </br>
 Siempre estoy en constante aprendizaje para mantenerme actualizado en las últimas tendencias y herramientas. Me apasiona el mundo de la programación y estoy entusiasmado por seguir creciendo como profesional en el campo de la informática. </br>
@@ -22,9 +22,13 @@ El pasado 8 de Mayo de este año (2023) logre entrar al **BootCamp de [HENRY](so
 [![JAVA](https://img.shields.io/badge/JAVA-1283e0?&style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=101010)]()
 [![GIT](https://img.shields.io/badge/GIT-red?&style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Eze-CM&theme=dracula&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eze-CM&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<div align="center">
+  <a href="https://github.com/Eze-CM/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eze-CM&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eze-CM&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Eze-CM"/>
+  </a>
+</div>
 
 # 📧 Contact Me:
 [![Email](https://img.shields.io/badge/leo24corales@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:leo24corales@gmail.com)
